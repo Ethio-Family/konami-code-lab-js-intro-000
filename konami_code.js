@@ -26,9 +26,7 @@ if (event.key === codes[index]) {
 
     index = 0;
   }
-  // else{
-  //   alert("worngButton!");
-  // }
+  
 } else {
   index = 0;
 }
