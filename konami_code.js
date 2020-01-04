@@ -15,8 +15,8 @@ const codes = [
 function init(){
 let index = 0;
 
-const input = document.body.querySelector('input')
-input.addEventListener('keydown', function(event){
+
+document.body.addEventListener('keydown', function(event){
 // your code here
 
 
