@@ -36,4 +36,3 @@ if (event.key === codes[index]) {
 
 })
 }
-//init()
